@@ -11,5 +11,15 @@
 }
 
 .img{
-    height: 900px;
+    height: 950px;
+    padding-top: 20px ;
+}
+
+.list {
+    font-size:x-large ;
+    background-color: #e7ecef;
+    width: 195%;
+    height: 930px;
+    margin-left: 0px;
+    margin-top: 20px;
 }
