@@ -1,25 +1,39 @@
-*{
-    margin: 5px 10px 5px 20px;
-    padding: 2px 2px 20px 10px;
-}
 
 .size {
     font-size: xx-large;
     text-align: center;
-    width: 90%;
+    position: relative;
+    width: 91.555%;
     background-color: #e7ecef;
 }
 
 .img{
-    height: 950px;
+    text-align: center;
+    height: 705px;
     padding-top: 20px ;
+    margin-bottom: 30px;
+    
 }
 
 .list {
     font-size:x-large ;
     background-color: #e7ecef;
-    width: 195%;
-    height: 930px;
-    margin-left: 0px;
-    margin-top: 20px;
+    width: 190%;
+    height: 705px;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    
+}
+
+.contact{
+    font-size: xx-large;
+    position: relative;
+    left: 44%;
+    color: #000000;
+}
+
+footer a:hover{
+    color: rgb(53, 186, 186);
+    transition: 0.75s ease-in; 
 }
