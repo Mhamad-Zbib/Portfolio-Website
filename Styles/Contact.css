@@ -1,0 +1,21 @@
+.size{
+    font-size: xx-large;
+    text-align: center;
+    position: relative;
+    width: 91.555%;
+    background-color: #e7ecef;
+    margin: 5px 10px 5px 50px ;
+}
+
+button:hover{
+    transition: 0.75s ease-in-out;
+    color: rgb(236, 73, 3);
+}
+
+.font-email{
+    font-size: 400px;
+}
+
+.font-parag{
+    font-size: 20px;
+}
